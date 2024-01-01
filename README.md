@@ -1,2 +1,2 @@
-# Assignment 8: Binary Trees
-Implementation of Binary Tree ADT
+# Binary Tree
+Implementation of Binary Tree ADT in C++
